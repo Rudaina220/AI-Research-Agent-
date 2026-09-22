@@ -1,0 +1,8 @@
+langchain
+langchain-groq
+langgraph
+langsmith
+python-dotenv
+ddgs
+requests
+beautifulsoup4
